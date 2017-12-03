@@ -1,6 +1,6 @@
 package com.example.demo;
-//import org.springframework.web.bind.annotation.ModelAttribute;
-//
+import org.springframework.web.bind.annotation.ModelAttribute;
+
 //@Controller
 //
 //public class HomeController {
@@ -15,5 +15,5 @@ package com.example.demo;
 //        return "confirmsong";
 //    }
 //}
+//
 
-// For some reason this page is not working
